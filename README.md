@@ -3,6 +3,7 @@ A curated list of blockchain-related academic papers. All papers are sorted base
 Welcome developers or researchers to add more published papers to this list. 
 
 ## Table of Listed Conferences
+
 |     Security & Privacy & Crypto     |               Networking & Database               | Software Engineering & Programming Language | System Architecture  |
 | :---------------------------------: | :-----------------------------------------------: | :-----------------------------------------: | :------------------: |
 |          [CRYPTO](#crypto)          | [SIGMETRICS & Performance](#sigmetricperformance) |                [ICSE](#icse)                |  [ACM SOSP](#sosp)   |
@@ -25,6 +26,7 @@ Welcome developers or researchers to add more published papers to this list.
 Key Words: Topics: System Architecture, Consensus(Proof-of-X and BFT), Layer 2 (Off-chain, Payment Networks, Sidechain, Crosschain), Network, Smart Contracts, Application (Trasactions), Cryptograph, Storage (light client); Contents: privacy, security, economics (incentive).
 -->
 
+# Security & Privacy & Crypto
 ## CRYPTO
 [The Bitcoin Backbone Protocol with Chains of Variable Difficulty](https://eprint.iacr.org/2016/1048). Juan A. Garay and Aggelos Kiayias and Nikos Leonardos. Crypto '17.
 
@@ -497,7 +499,7 @@ Eleftherios Kokoris Kogias; Dahlia Malkhi; Alexander Spiegelman. CCS '20.
 
 [System][Hamilton: A High-Performance Transaction Processor for Central Bank Digital Currencies](https://www.usenix.org/system/files/nsdi23-lovejoy.pdf). James Lovejoy, Madars Virza, Cory Fields, Kevin Karwaski, Anders Brownworth, Neha Narula. NSDI '23
 
-
+# Networking & Database
 ## Sigmetric&Performance
 [Network][Stability and Scalability of Blockchain Systems](). Aditya Gopalan, Abishek Sankararaman, Anwar Walid, Sriram Vishwanath. Sigmetric '20.
 
@@ -556,6 +558,7 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 
 [Consensus] [FireLedger: A High Throughput Blockchain Consensus Protocol](http://www.vldb.org/pvldb/vol13/p1525-buchnik.pdf). Yehonatan Buchnik, and Roy Friedman. VLDB'20.
 
+# Software Engineering & Programming Language
 ## ICSE
 [Smart Contract] [Gigahorse: Thorough, Declarative Decompilation of Smart Contracts](https://ieeexplore.ieee.org/document/8811905). Neville Grech, Lexi Brent, Bernhard Scholz, Yannis Smaragdakis. ICSE '2019.
 
@@ -647,6 +650,7 @@ Wentian Yan, Jianbo Gao, Zhenhao Wu, Yue Li, Zhi Guan, Qingshan Li, Zhong Chen. 
 
 [BFT][Byzantine Generalized Lattice Agreement](https://arxiv.org/pdf/1910.05768.pdf). Giuseppe Antonio Di Luna, Emmanuelle Anceaume, and Leonardo Querzoni. IPDPS '20. 
 
+# System Architecture
 
 ## EuroS&P
 [Smart Contract][Ekiden: A Platform for Conﬁdentiality-Preserving, Trustworthy, and Performant Smart Contracts](https://arxiv.org/pdf/1804.05141.pdf). Raymond Cheng, Fan Zhang, Jernej Kos, Warren He, Nicholas Hynes, Noah Johnson, Ari Juels, Andrew Miller, Dawn Song. EuroS&P '19.
@@ -884,7 +888,7 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 -->
 
 ## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](%E9%99%84%E4%BB%B6/pic/0436731b56a1f8737caeae3f5e5ba070_MD5.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 
 This list is released into the public domain.
